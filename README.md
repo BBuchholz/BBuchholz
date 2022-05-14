@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BBuchholz
 - 👀 I’m interested in occult related software projects
-- 🌱 I’m currently learning nodejs and javascript in general
+- 🌱 I’m currently learning (and LOVING) svelte for frontend js projects
 - 💞️ I’m looking to collaborate on occult oriented projects
 - 📫 How to reach me brentbuchholz@gmail.com
 
